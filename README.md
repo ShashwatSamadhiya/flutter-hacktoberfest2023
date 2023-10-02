@@ -28,7 +28,7 @@ Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 Create a markdown file in your folder following the convention participant/<YOUR-USERNAME>.md. Ex.
 
-participant/<YOUR-USERNAME>.md
+`participant/<YOUR-USERNAME>.md`
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 
 
